@@ -45,7 +45,7 @@ Want to run it yourself? It’s lightweight and simple.
 ### 1. Clone this repository
 ```bash
 git clone https://github.com/ItsMeSudo/no-as-a-service-go.git
-cd no-as-a-service
+cd no-as-a-service-go
 ```
 
 ### 2. Build
